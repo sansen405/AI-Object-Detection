@@ -1,1 +1,1 @@
-# AI-Object-Detection
+This repository contatins an AI project I created over the summer that utilizes YoloV3 and Tensorflow to make highly accurate predictions of object in real-time. Upon inputing a video (street view from vehicle), the program will create bounding boxes around objects, providinf a prediction of what the object is and the percent confidence.
